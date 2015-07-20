@@ -1,0 +1,10 @@
+react js
+set alarm to wake up @ 5
+study django from 530 to 630
+bathe @ 630 to 7
+break @ 7 to 710
+move out at 7:20
+
+
+sample app of django app
+Mozilla Support
